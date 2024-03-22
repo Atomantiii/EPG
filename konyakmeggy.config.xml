@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <filename>tempest.xml</filename>
+  <user-agent/>
+  <logger>on</logger>
+  <retry>2</retry>
+  <time-out>30</time-out>
+  <timespan>9</timespan>
+  <proxy/>
+  <index-only>off</index-only>
+  <fusion>off</fusion>
+  <fusion-level>0</fusion-level>
+  <time-converter/>
+  <delay channel="" index="" detail=""/>
+  <channel-lister>off</channel-lister>
+  <inverter>off</inverter>
+  <inverter-filename/>
+  <inverter-path/>
+  <logname>konyakmeggy</logname>
+	<channel site="[ENC]mediaklikk.hu_0" site_id="pm|##|15||1" xmltv_id="Parlamenti">Parlamenti</channel>
+	<channel site="musor.tv_0" site_id="DEBRECEN_TV" xmltv_id="Debrecen TV">Debrecen TV</channel>
+	<channel site="musor.tv_0" site_id="HGTV" xmltv_id="HGTV">HGTV</channel>
+	<channel site="musor.tv_0" site_id="DIKH_TV" xmltv_id="Dikh TV">Dikh TV</channel>
+	<channel site="musor.tv_0" site_id="DOCUBOX_EN" xmltv_id="Docubox">Docubox</channel>
+	<channel site="musor.tv_0" site_id="DUNAWORLDRADIO" xmltv_id="Duna World Rádió">Duna World Rádió</channel>
+	<channel site="musor.tv_0" site_id="M3" xmltv_id="M3">M3</channel>
+	<channel site="musor.tv_0" site_id="MKR" xmltv_id="Magyar Katolikus Rádió">Magyar Katolikus Rádió</channel>
+	<channel site="musor.tv_0" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
+	<channel site="musor.tv_0" site_id="JAZZ_TV" xmltv_id="Jazz TV">Jazz TV</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="CLUBMTV" xmltv_id="club MTV">club MTV</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="EROX" xmltv_id="Eroxxx">Eroxxx</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="LOVE_NATURE" xmltv_id="Love Nature">Love Nature</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MR1KOSSUTH" xmltv_id="MR1-Kossuth">MR1-Kossuth</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MR2PETOFI" xmltv_id="MR2-Petőfi">MR2-Petőfi</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MR3BARTOK" xmltv_id="MR3-Bartók">MR3-Bartók</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MR4NEMZETISEGI" xmltv_id="MR4-Nemzetiségi">MR4-Nemzetiségi</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MR6DANKO" xmltv_id="MR6-Dankó">MR6-Dankó</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MTV80S" xmltv_id="MTV 80s">MTV 80s</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MTV90S" xmltv_id="MTV 90s">MTV 90s</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MTV00S" xmltv_id="MTV 00s">MTV 00s</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="MTVHITS" xmltv_id="MTV Hits">MTV Hits</channel>
+	<channel site="[ENC]tvmustra.hu_0" site_id="TRAVELXP" xmltv_id="Travel XP">Travel XP</channel>
+</configuration>

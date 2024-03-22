@@ -7,10 +7,10 @@
 <channel id="139.port.hu">1:0:19:51D:3:64:DE80000:0:0:0:</channel><!-- AMC HD - 4.0 W - 11222 H 30000 - T-Home -->
 <channel id="139.port.hu">1:0:1:7981:2C7:600:E080000:0:0:0:</channel><!-- AMC HU - 0.8 W - 11919 V 28000 - M7 Group -->
 <channel id="139.port.hu">1:0:1:7996:2C7:600:E080000:0:0:0:</channel><!-- AMC HU. - 0.8 W - 11919 V 28000 - M7 Group -->
-<channel id="231.port.hu">1:0:19:518:3:64:DE80000:0:0:0:</channel><!-- Animal Planet HD - 4.0 W - 11222 H 30000 - T-Home -->
+<channel id="82.port.hu">1:0:19:518:3:64:DE80000:0:0:0:</channel><!-- Animal Planet HD - 4.0 W - 11222 H 30000 - T-Home -->
 <channel id="82.port.hu">1:0:1:424:3:1:E080000:0:0:0:</channel><!-- Animal Planet - 0.8 W - 12130 H 28000 - Digi TV -->
-<channel id="231.port.hu">1:0:19:2335:AF9:BB:E080000:0:0:0:</channel><!-- Animal Planet HD - 0.8 W - 12456 V 30000 - Slovak Telekom -->
-<channel id="231.port.hu">1:0:19:1518:C3AA:9E:5A0000:0:0:0:</channel><!-- Animal Planet Europe HD - 9.0 E - 11881 V 30000 - Warner Bros. Discovery -->
+<channel id="82.port.hu">1:0:19:2335:AF9:BB:E080000:0:0:0:</channel><!-- Animal Planet HD - 0.8 W - 12456 V 30000 - Slovak Telekom -->
+<channel id="82.port.hu">1:0:19:1518:C3AA:9E:5A0000:0:0:0:</channel><!-- Animal Planet Europe HD - 9.0 E - 11881 V 30000 - Warner Bros. Discovery -->
 <channel id="371.port.hu">1:0:1:206:5:22C7:EEEE0000:0:0:0:</channel><!-- Apostol TV - DVB-T - Antenna Hungária -->
 <channel id="371.port.hu">1:0:1:641:6:64:DE80000:0:0:0:</channel><!-- Apostol TV - 4.0 W - 10842 V 30000 - T-Home -->
 <channel id="370.port.hu">1:0:1:13B:3:22C7:EEEE0000:0:0:0:</channel><!-- Arena 4 HD - DVB-T - Antenna Hungária -->
@@ -18,6 +18,7 @@
 <channel id="370.port.hu">1:0:1:78D7:2C5:600:E080000:0:0:0:</channel><!-- Arena4. - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="370.port.hu">1:0:19:75A1:2BD:600:E080000:0:0:0:</channel><!-- Arena4 HD. - 0.8 W - 11727 V 28000 - M7 Group -->
 <channel id="370.port.hu">1:0:19:7664:2BF:600:E080000:0:0:0:</channel><!-- Arena4 HD - 0.8 W - 11803 V 30000 - M7 Group -->
+<channel id="370.port.hu">1:0:1:4EFB:C81:3:EB0000:0:0:0:</channel><!-- Arena Sport 4 - 23.5 E - 11720 H 30000 - Telekom Srbija -->
 <channel id="15.port.hu">1:0:1:139:3:22C7:EEEE0000:0:0:0:</channel><!-- ATV - DVB-T - Antenna Hungária -->
 <channel id="15.port.hu">1:0:19:5E1:5:64:DE80000:0:0:0:</channel><!-- ATV HD - 4.0 W - 10806 V 30000 - T-Home -->
 <channel id="15.port.hu">1:0:1:7603:2BE:600:E080000:0:0:0:</channel><!-- ATV - 0.8 W - 11765 V 28000 - M7 Group -->
@@ -183,7 +184,6 @@
 <channel id="359.port.hu">1:0:1:CEE:3:1:E080000:0:0:0:</channel><!-- Film 4 - 0.8 W - 12130 H 28000 - Digi TV -->
 <channel id="359.port.hu">1:0:1:4EFE:C81:3:EB0000:0:0:0:</channel><!-- Film 4 - 23.5 E - 11720 H 30000 - Telekom Srbija -->
 <channel id="226.port.hu">1:0:1:460:1:64:DE80000:0:0:0:</channel><!-- Filmbox - 4.0 W - 10722 V 30000 - T-Home -->
-<channel id="226.port.hu">1:0:1:77FA:2C3:600:E080000:0:0:0:</channel><!-- Filmbox (basic) HU/RO - 0.8 W - 11938 H 28000 - M7 Group -->
 <channel id="226.port.hu">1:0:1:78BF:2C5:600:E080000:0:0:0:</channel><!-- Filmbox Basic - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="226.port.hu">1:0:1:78D2:2C5:600:E080000:0:0:0:</channel><!-- Filmbox Basic. - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="173.port.hu">1:0:1:46B:1:64:DE80000:0:0:0:</channel><!-- Filmbox Extra HD - 4.0 W - 10722 V 30000 - T-Home -->
@@ -255,6 +255,7 @@
 <channel id="182.port.hu">1:0:1:780E:2C3:600:E080000:0:0:0:</channel><!-- History Hungary - 0.8 W - 11938 H 28000 - M7 Group -->
 <channel id="182.port.hu">1:0:1:780F:2C3:600:E080000:0:0:0:</channel><!-- History Pan Euro - 0.8 W - 11938 H 28000 - M7 Group -->
 <channel id="10.port.hu">1:0:1:136:3:22C7:EEEE0000:0:0:0:</channel><!-- Hir TV - DVB-T - Antenna Hungária -->
+<channel id="10.port.hu">1:0:1:46A:1:64:DE80000:0:0:0:</channel><!-- Hir TV - 4.0 W - 10722 V 30000 - T-Home -->
 <channel id="10.port.hu">1:0:1:2:1:1:DE82C28:0:0:0:</channel><!-- Hir TV - 4.0 W - 11304 H 8889 - Antenna Hungária / HDT -->
 <channel id="10.port.hu">1:0:1:4A6:3:1:E080000:0:0:0:</channel><!-- Hir TV - 0.8 W - 12130 H 28000 - Digi TV -->
 <channel id="10.port.hu">1:0:1:7596:2BD:600:E080000:0:0:0:</channel><!-- hirTV - 0.8 W - 11727 V 28000 - M7 Group -->
@@ -284,6 +285,7 @@
 <channel id="364.port.hu">1:0:1:75B2:2BD:600:E080000:0:0:0:</channel><!-- Jocky TV. - 0.8 W - 11727 V 28000 - M7 Group -->
 <channel id="364.port.hu">1:0:1:45F5:6FE:B4DC:E080000:0:0:0:</channel><!-- JockyTV - 0.8 W - 12723 V 26666 - HDT -->
 <channel id="379.port.hu">1:0:1:76C3:2C0:600:E080000:0:0:0:</channel><!-- Kolyokklub - 0.8 W - 11996 V 28000 - M7 Group  -->
+<channel id="379.port.hu">1:0:1:76E0:2C0:600:E080000:0:0:0:</channel><!-- Kolyokklub. - 0.8 W - 11996 V 28000 - M7 Group  -->
 <channel id="379.port.hu">1:0:19:7ABA:2CC:600:E080000:0:0:0:</channel><!-- Kolyokklub - 0.8 W - 12149 V 30000 - M7 Group  -->
 <channel id="212.port.hu">1:0:1:135:3:22C7:EEEE0000:0:0:0:</channel><!-- Life TV - DVB-T - Antenna Hungária -->
 <channel id="212.port.hu">1:0:1:5F8:5:64:DE80000:0:0:0:</channel><!-- Life TV - 4.0 W - 10806 V 30000 - T-Home -->
@@ -496,6 +498,7 @@
 <channel id="180.port.hu">1:0:1:4F0A:C81:3:EB0000:0:0:0:</channel><!-- RTL Gold - 23.5 E - 11720 H 30000 - Telekom Srbija -->
 <channel id="180.port.hu">1:0:16:3B64:C8D:3:EB0000:0:0:0:</channel><!-- RTL GOLD - 23.5 E - 11953 H 29900 - M7 Group -->
 <channel id="381.port.hu">1:0:1:76C5:2C0:600:E080000:0:0:0:</channel><!-- RTL OTTHON - 0.8 W - 11996 V 28000 - M7 Group -->
+<channel id="381.port.hu">1:0:1:76E2:2C0:600:E080000:0:0:0:</channel><!-- RTL OTTHON. - 0.8 W - 11996 V 28000 - M7 Group -->
 <channel id="381.port.hu">1:0:19:7ABB:2CC:600:E080000:0:0:0:</channel><!-- RTL OTTHON - 0.8 W - 12149 V 30000 - M7 Group -->
 <channel id="216.port.hu">1:0:1:1FF:5:22C7:EEEE0000:0:0:0:</channel><!-- Slager TV - DVB-T - Antenna Hungária -->
 <channel id="216.port.hu">1:0:1:5F6:5:64:DE80000:0:0:0:</channel><!-- Sláger TV - 4.0 W - 10806 V 30000 - T-Home -->
