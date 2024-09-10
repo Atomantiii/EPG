@@ -81,7 +81,6 @@
 <channel id="194.port.hu">1:0:19:517:3:64:DE80000:0:0:0:</channel><!-- Comedy Central HD - 4.0 W - 11258 H 30000 - T-Home -->
 <channel id="194.port.hu">1:0:1:1F7:1B:2C0:E080000:0:0:0:</channel><!-- Comedy Central Hungary - 0.8 W - 12226 V 27500 - MTV Networks Europe -->
 <channel id="194.port.hu">1:0:1:201:1B:2C0:E080000:0:0:0:</channel><!-- Comedy Central Hungary. - 0.8 W - 12226 V 27500 - NTV Networks Europe -->
-<channel id="194.port.hu">1:0:16:3A9F:C84:3:EB0000:0:0:0:</channel><!-- Comedy Central Hungary - 23.5 E - 11778 V 29900 - M7 Group -->
 <channel id="194.port.hu">1:0:16:317:C94:3:EB0000:0:0:0:</channel><!-- Comedy Central Hungary - 23.5 E - 12090 V 29900 - M7 Group -->
 <channel id="79.port.hu">1:0:1:23A:D0:1:FFFF0000:0:0:0:</channel><!-- Cool - DVB-C - Digi  -->
 <channel id="79.port.hu">1:0:1:19C:4:22C7:EEEE0000:0:0:0:</channel><!-- Cool - DVB-T - Antenna Hungária  -->
@@ -89,7 +88,6 @@
 <channel id="79.port.hu">1:0:1:7613:2BE:600:E080000:0:0:0:</channel><!-- Cool - 0.8 W - 11765 V 28000 - M7 Group -->
 <channel id="79.port.hu">1:0:1:7614:2BE:600:E080000:0:0:0:</channel><!-- Cool (SVT) - 0.8 W - 11765 V 28000 - M7 Group -->
 <channel id="79.port.hu">1:0:1:5FA:3:1:E080000:0:0:0:</channel><!-- Cool TV - 0.8 W - 12130 H 28000 - Digi TV -->
-<channel id="79.port.hu">1:0:16:3A9E:C84:3:EB0000:0:0:0:</channel><!-- Cool - 23.5 E - 11778 V 29900 - M7 Group -->
 <channel id="79.port.hu">1:0:16:1C17:C88:3:EB0000:0:0:0:</channel><!-- Cool - 23.5 E - 11856 V 29900 - M7 Group -->
 <channel id="79.port.hu">1:0:1:4F01:C81:3:EB0000:0:0:0:</channel><!-- Cool TV - 23.5 E - 11720 H 30000 - Telekom Srbija -->
 <channel id="79.port.hu">1:0:1:12E:D:1C:1860000:0:0:0:</channel><!-- Cool TV - 39.0 E - 12524 V 30000 - Orange Romania -->
@@ -141,6 +139,7 @@
 <channel id="6.port.hu">1:0:19:67:1838:9E:5A0000:0:0:0:</channel><!-- Duna HD - 9.0 E - 11958 V 27500 - MTVA -->
 <channel id="6.port.hu">1:0:19:71:1838:9E:5A0000:0:0:0:</channel><!-- Duna HD (Europa) - 9.0 E - 11958 V 27500 - MTVA -->
 <channel id="6.port.hu">1:0:16:1C16:C8B:3:EB0000:0:0:0:</channel><!-- Duna - 23.5 E - 11856 V - 29900 - M7 Group -->
+<channel id="6.port.hu">1:0:16:1C16:C88:3:EB0000:0:0:0:</channel><!-- Duna SD - 23.5 E - 11856 V - 29900 - M7 Group -->
 <channel id="6.port.hu">1:0:1:4EF9:C8B:3:EB0000:0:0:0:</channel><!-- Duna - 23.5 E - 11914 H - 30000 - Telekom Srbija -->
 <channel id="6.port.hu">1:0:19:3A99:C84:3:EB0000:0:0:0:</channel><!-- Duna HD - 23.5 E - 11778 V 29900 - M7 Group -->
 <channel id="6.port.hu">1:0:1:111:E:1C:1860000:0:0:0:</channel><!-- Duna TV - 39.0 E - 12565 V 30000 - Orange Romania -->
@@ -164,7 +163,6 @@
 <channel id="222.port.hu">1:0:1:317:CD:1:FFFF0000:0:0:0:</channel><!-- Erdély Tv - DVB-C - Digi -->
 <channel id="222.port.hu">1:0:1:D2:F:1C:1860000:0:0:0:</channel><!-- Erdély Tv - 39.0 E - 12175 V 30000 - Orange Romania -->
 <channel id="Eroxxx">1:0:16:7A59:2CB:600:E080000:0:0:0:</channel><!-- Eroxxx - 0.8 W - 12111 V 28000 - M7 Group -->
-<channel id="Eurosport4k">1:0:1F:3E84:1E14:13E:820000:0:0:0:</channel><!-- Eurosport 4K PopUp UHD - 13.0 E - 12245 H 27500 - Warner Bros Discovery -->
 <channel id="94.port.hu">1:0:19:51E:3:64:DE80000:0:0:0:</channel><!-- Eurosport1 HD - 4.0 W - 11222 H 30000 - T-Home -->
 <channel id="94.port.hu">1:0:1:4A3:3:1:E080000:0:0:0:</channel><!-- Eurosport HU - 0.8 W - 12130 H 28000 - Digi TV -->
 <channel id="94.port.hu">1:0:19:7DF:AF2:BB:E080000:0:0:0:</channel><!-- Eurosport 1 HD - 0.8 W - 11976 H 30000 - Slovak Telekom -->
@@ -188,7 +186,6 @@
 <channel id="32.port.hu">1:0:1:760D:2BE:600:E080000:0:0:0:</channel><!-- Film+ (SVT) - 0.8 W - 11765 V 28000 - M7 Group -->
 <channel id="32.port.hu">1:0:19:7A4F:2CB:600:E080000:0:0:0:</channel><!-- Film+ HD. - 0.8 W - 12111 V 30000 - M7 Group -->
 <channel id="32.port.hu">1:0:1:4F00:C81:3:EB0000:0:0:0:</channel><!-- Film + - 23.5 E - 11720 H 30000 - Telekom Srbija -->
-<channel id="32.port.hu">1:0:19:3AA1:C84:3:EB0000:0:0:0:</channel><!-- Film+ HD Hungary - 23.5 E - 11778 V 29900 - M7 Group -->
 <channel id="32.port.hu">1:0:16:1C15:C88:3:EB0000:0:0:0:</channel><!-- Film+ Hungary - 23.5 E - 11856 V 29900 - M7 Group -->
 <channel id="32.port.hu">1:0:16:1C15:C92:3:EB0000:0:0:0:</channel><!-- Film+ Hungary - 23.5 E - 12051 V 29900 - M7 Group -->
 <channel id="32.port.hu">1:0:1:112:E:1C:1860000:0:0:0:</channel><!-- Film+ - 39.0 E - 12565 V 30000 - Orange Romania -->
@@ -236,7 +233,6 @@
 <channel id="285.port.hu">1:0:1:16A8:C3AA:9E:5A0000:0:0:0:</channel><!-- Food Network EMEA HD - 9.0 E - 11881 V 30000 - Warner Bros. Discovery -->
 <channel id="284.port.hu">1:0:1:465:1:64:DE80000:0:0:0:</channel><!-- GALAXY4 - 4.0 W - 10722 V 30000 - T-Home -->
 <channel id="284.port.hu">1:0:1:A96:3:1:E080000:0:0:0:</channel><!-- Galaxy4 - 0.8 W - 12130 H 28000 - Digi TV -->
-<channel id="284.port.hu">1:0:16:3A98:C84:3:EB0000:0:0:0:</channel><!-- Galaxy4 - 23.5 E - 11778 V 29900 - M7 Group -->
 <channel id="284.port.hu">1:0:16:31F:C94:3:EB0000:0:0:0:</channel><!-- Galaxy4 - 23.5 E - 12090 V 29900 - M7 Group -->
 <channel id="246.port.hu">1:0:1:64B:6:64:DE80000:0:0:0:</channel><!-- Hatoscsatorna - 4.0 W - 10842 V 30000 - T-Home -->
 <channel id="8.port.hu">1:0:19:57C:4:64:DE80000:0:0:0:</channel><!-- HBO HD - 4.0 W - 11258 H 30000 - T-Home -->
@@ -275,7 +271,6 @@
 <channel id="10.port.hu">1:0:1:4A6:3:1:E080000:0:0:0:</channel><!-- Hir TV - 0.8 W - 12130 H 28000 - Digi TV -->
 <channel id="10.port.hu">1:0:1:7596:2BD:600:E080000:0:0:0:</channel><!-- hirTV - 0.8 W - 11727 V 28000 - M7 Group -->
 <channel id="10.port.hu">1:0:16:17E3:C82:3:EB0000:0:0:0:</channel><!-- HirTV - 23.5 E - 11739 V 29900 - M7 Group -->
-<channel id="10.port.hu">1:0:16:3AA7:C84:3:EB0000:0:0:0:</channel><!-- HirTV - 23.5 E - 11778 V 29900 - M7 Group -->
 <channel id="Hustler">1:0:1:78C8:2C5:600:E080000:0:0:0:</channel><!-- Hustler - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="Hustler">1:0:1:78D1:2C5:600:E080000:0:0:0:</channel><!-- Hustler. - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="304.port.hu">1:0:1:CC:2:22C7:EEEE0000:0:0:0:</channel><!-- Izaura TV - DVB-T - Antenna Hungária  -->
@@ -387,8 +382,6 @@
 <channel id="229.port.hu">1:0:1:7986:2C7:600:E080000:0:0:0:</channel><!-- Mozi+ - 0.8 W - 11919 V 28000 - M7 Group -->
 <channel id="229.port.hu">1:0:1:DAC:4:1:E080000:0:0:0:</channel><!-- Mozi+ - 0.8 W - 12187 V 28000 - Digi TV -->
 <channel id="229.port.hu">1:0:16:233A:AF9:BB:E080000:0:0:0:</channel><!-- Mozi+ - 0.8 W - 12456 V 30000 - Slovak Telekom -->
-<channel id="229.port.hu">1:0:16:3AAB:C84:3:EB0000:0:0:0:</channel><!-- Mozi+ - 23.5 E - 11778 V 29900 - M7 Group -->
-<channel id="229.port.hu">1:0:16:52F2:C96:3:EB0000:0:0:0:</channel><!-- Mozi+ - 23.5 E - 12129 V 29900 - M7 Group -->
 <channel id="380.port.hu">1:0:1:78B6:2C5:600:E080000:0:0:0:</channel><!-- Moziklub. - 0.8 W - 12265 V 28000 - M7 Group -->
 <channel id="380.port.hu">1:0:1:78D8:2C5:600:E080000:0:0:0:</channel><!-- Moziklub. - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="365.port.hu">1:0:19:9CA:19:601:FFFF0000:0:0:0:</channel><!-- Moziverzum HD - DVB-C - Vodafone -->
@@ -500,7 +493,6 @@
 <channel id="5.port.hu">1:0:19:7728:2C1:600:E080000:0:0:0:</channel><!-- RTL HD - 0.8 W - 12034 V 30000 - M7 Group -->
 <channel id="5.port.hu">1:0:1:4EF4:C8B:3:EB0000:0:0:0:</channel><!-- RTL - 23.5 E - 11914 H 30000 - Telekom Srbija -->
 <channel id="5.port.hu">1:0:16:17E8:C82:3:EB0000:0:0:0:</channel><!-- RTL - 23.5 E - 11739 V 29900 - M7 Group -->
-<channel id="5.port.hu">1:0:19:3B6D:C8D:3:EB0000:0:0:0:</channel><!-- RTL HD - 23.5 E - 11953 H 29900 - M7 Group -->
 <channel id="5.port.hu">1:0:1:113:E:1C:1860000:0:0:0:</channel><!-- RTL - 39.0 E - 12565 V 30000 - Orange Romania -->
 <channel id="241.port.hu">1:0:1:236:D0:1:FFFF0000:0:0:0:</channel><!-- RTL KETTO - DVB-C - Digi -->
 <channel id="241.port.hu">1:0:1:193:4:22C7:EEEE0000:0:0:0:</channel><!-- RTL KETTO - DVB-T - Antenna Hungária -->
@@ -530,7 +522,6 @@
 <channel id="180.port.hu">1:0:1:79F3:2C8:600:E080000:0:0:0:</channel><!-- RTL GOLD - 0.8 W - 11958 V 28000 - M7 Group -->
 <channel id="180.port.hu">1:0:1:7A03:2C8:600:E080000:0:0:0:</channel><!-- RTL GOLD (SVT) - 0.8 W - 11958 V 28000 - M7 Group -->
 <channel id="180.port.hu">1:0:1:4F0A:C81:3:EB0000:0:0:0:</channel><!-- RTL Gold - 23.5 E - 11720 H 30000 - Telekom Srbija -->
-<channel id="180.port.hu">1:0:16:3B64:C8D:3:EB0000:0:0:0:</channel><!-- RTL GOLD - 23.5 E - 11953 H 29900 - M7 Group -->
 <channel id="180.port.hu">1:0:16:5314:C96:3:EB0000:0:0:0:</channel><!-- RTL GOLD - 23.5 E - 12129 V 29900 - M7 Group -->
 <channel id="381.port.hu">1:0:1:76C5:2C0:600:E080000:0:0:0:</channel><!-- RTL OTTHON - 0.8 W - 11996 V 28000 - M7 Group -->
 <channel id="381.port.hu">1:0:1:76E2:2C0:600:E080000:0:0:0:</channel><!-- RTL OTTHON. - 0.8 W - 11996 V 28000 - M7 Group -->
@@ -592,7 +583,6 @@
 <channel id="228.port.hu">1:0:1:7805:2C3:600:E080000:0:0:0:</channel><!-- STORY 4 SVT - 0.8 W - 11938 H 28000 - M7 Group -->
 <channel id="228.port.hu">1:0:1:7807:2C3:600:E080000:0:0:0:</channel><!-- STORY 4. - 0.8 W - 11938 H 28000 - M7 Group -->
 <channel id="228.port.hu">1:0:1:4EF6:C8B:3:EB0000:0:0:0:</channel><!-- Story 4 - 23.5 E - 11914 H 30000 - Telekom Srbija -->
-<channel id="228.port.hu">1:0:16:3B6E:C8D:3:EB0000:0:0:0:</channel><!-- STORY4 HU - 23.5 E - 11953 H 29900 - M7 Group -->
 <channel id="228.port.hu">1:0:16:1F50:CA1:3:EB0000:0:0:0:</channel><!-- STORY4 HU - 23.5 E - 12343 H 29900 - M7 Group -->
 <channel id="228.port.hu">1:0:1:13F:F:1C:1860000:0:0:0:</channel><!-- Story4 - 39.0 E - 12175 V 30000 - Orange Romania -->
 <channel id="Super One">1:0:1:203:5:22C7:EEEE0000:0:0:0:</channel><!-- Super One - DVB-T - Antenna Hungária -->
@@ -650,7 +640,6 @@
 <channel id="307.port.hu">1:0:1:78BA:2C5:600:E080000:0:0:0:</channel><!-- TV2Klub - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="307.port.hu">1:0:1:78D9:2C5:600:E080000:0:0:0:</channel><!-- Fem3 HU (SVT) - 0.8 W - 12264 V 28000 - M7 Group -->
 <channel id="307.port.hu">1:0:1:78C7:2C5:600:E080000:0:0:0:</channel><!-- Fem3 HU. - 0.8 W - 12264 V 28000 - M7 Group -->
-<channel id="307.port.hu">1:0:16:3AA5:C84:3:EB0000:0:0:0:</channel><!-- TV2 Klub - 23.5 E - 11778 V 29900 - M7 Group -->
 <channel id="307.port.hu">1:0:16:319:C94:3:EB0000:0:0:0:</channel><!-- TV2 Klub - 23.5 E - 12090 V 29900 - M7 Group -->
 <channel id="309.port.hu">1:0:1:24F:D0:1:FFFF0000:0:0:0:</channel><!-- TV2 Sef - DVB-C - Digi -->
 <channel id="309.port.hu">1:0:1:202:5:22C7:EEEE0000:0:0:0:</channel><!-- TV2 Sef - DVB-T - Antenna Hungária -->
@@ -659,13 +648,13 @@
 <channel id="309.port.hu">1:0:1:45F2:6FE:B4DC:E080000:0:0:0:</channel><!-- TV2 Sef - 0.8 W - 12723 V 26666 - HDT -->
 <channel id="309.port.hu">1:0:1:79A2:2C7:600:E080000:0:0:0:</channel><!-- TV2 Sef (SVT) - 0.8 W - 11919 V 28000 - M7 Group -->
 <channel id="309.port.hu">1:0:1:799A:2C7:600:E080000:0:0:0:</channel><!-- TV2 Sef. - 0.8 W - 11919 V 28000 - M7 Group -->
+<channel id="309.port.hu">1:0:16:5315:C96:3:EB0000:0:0:0:</channel><!-- TV2 Sef - 23.0 E - 12129 V 29900 - M7 Group -->
 <channel id="38.port.hu">1:0:1:257:D0:1:FFFF0000:0:0:0:</channel><!-- TV4 - DVB-C - Digi -->
 <channel id="38.port.hu">1:0:1:19E:4:22C7:EEEE0000:0:0:0:</channel><!-- TV4 - DVB-T - Antenna Hungária -->
 <channel id="38.port.hu">1:0:1:45C:1:64:DE80000:0:0:0:</channel><!-- TV4 - 4.0 W - 10722 V 30000 - T-Home -->
 <channel id="38.port.hu">1:0:1:7989:2C7:600:E080000:0:0:0:</channel><!-- TV4 - 0.8 W - 11919 V 28000 - M7 Group -->
 <channel id="38.port.hu">1:0:1:7995:2C7:600:E080000:0:0:0:</channel><!-- TV4 - 0.8 W - 11919 V 28000 - M7 Group -->
 <channel id="38.port.hu">1:0:1:799F:2C7:600:E080000:0:0:0:</channel><!-- TV4. - 0.8 W - 11919 V 28000 - M7 Group -->
-<channel id="38.port.hu">1:0:16:3B68:C8D:3:EB0000:0:0:0:</channel><!-- TV4 - 23.5 E - 11953 H 29900 - M7 Group -->
 <channel id="46.port.hu">1:0:1:1A0:4:22C7:EEEE0000:0:0:0:</channel><!-- TV Paprika - DVB-T - Antenna Hungária -->
 <channel id="46.port.hu">1:0:1:452:1:64:DE80000:0:0:0:</channel><!-- TV Paprika - 4.0 W - 10722 V 30000 - T-Home -->
 <channel id="46.port.hu">1:0:1:75A0:2BD:600:E080000:0:0:0:</channel><!-- TV Paprika - 0.8 W - 11727 V 28000 - M7 Group -->

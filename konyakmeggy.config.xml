@@ -43,7 +43,7 @@
 	<channel site="[ENC]tvmustra.hu_0" site_id="MTV90S" xmltv_id="MTV 90s">MTV 90s</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="MTV00S" xmltv_id="MTV 00s">MTV 00s</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="MTVHITS" xmltv_id="MTV Hits">MTV Hits</channel>
-	<channel site="[ENC]tvmustra.hu_0" site_id="NAUTICALCHANNEL" xmltv_id="Nautical Channel">Nautical Channel</channel>
+	<channel site="musor.tv_0" site_id="NAUTICAL_CHANNEL" xmltv_id="Nautical Channel">Nautical Channel</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="NICKMUSIC" xmltv_id="NickMusic">NickMusic</channel>
 	<channel site="[ENC]mediaklikk.hu_0" site_id="pm|##|15||1" xmltv_id="Parlamenti">Parlamenti</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="CLASSICA" xmltv_id="Stingray Classica">Stingray Classica</channel>
