@@ -31,7 +31,6 @@
 	<channel site="[ENC]startsiden.no_0" site_id="HUSTLERTV" xmltv_id="Hustler">Hustler</channel>
 	<channel site="musor.tv_0" site_id="JAZZ_TV" xmltv_id="Jazz TV">Jazz TV</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="LOVE_NATURE" xmltv_id="Love Nature">Love Nature</channel>
-	<channel site="[ENC]mediaklikk.hu_0" site_id="m3|##|26||0" xmltv_id="M3">M3</channel>
 	<channel site="musor.tv_0" site_id="MKR" xmltv_id="Magyar Katolikus Rádió">Magyar Katolikus Rádió</channel>
 	<channel site="musor.tv_0" site_id="MEZZO" xmltv_id="Mezzo">Mezzo</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="MR1KOSSUTH" xmltv_id="MR1-Kossuth">MR1-Kossuth</channel>
@@ -46,9 +45,7 @@
 	<channel site="musor.tv_0" site_id="NAUTICAL_CHANNEL" xmltv_id="Nautical Channel">Nautical Channel</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="NICKMUSIC" xmltv_id="NickMusic">NickMusic</channel>
 	<channel site="[ENC]mediaklikk.hu_0" site_id="pm|##|15||1" xmltv_id="Parlamenti">Parlamenti</channel>
-	<channel site="[ENC]tvmustra.hu_0" site_id="CLASSICA" xmltv_id="Stingray Classica">Stingray Classica</channel>
-	<channel site="[ENC]tvmustra.hu_0" site_id="CMUSIC" xmltv_id="Stingray CMusic">Stingray CMusic</channel>
 	<channel site="[ENC]tvmustra.hu_0" site_id="ICONCERT" xmltv_id="Stingray iConcerts">Stingray iConcerts</channel>
 	<channel site="[ENC]epg.iptvx.one_0" site_id="super-one" xmltv_id="Super One">Super One</channel>
-	<channel site="[ENC]tvmustra.hu_0" site_id="TRAVELXP" xmltv_id="Travel XP">Travel XP</channel>
+	<channel site="musor.tv_0" site_id="TRAVELXP_4K" xmltv_id="Travel XP4K">Travel XP4K</channel>
 </configuration>
